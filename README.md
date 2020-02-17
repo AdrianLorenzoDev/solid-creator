@@ -22,7 +22,7 @@ Solid of revolution creator using [Processing](https://processing.org).
 * [Referencias](#references)
 
 ## Introducción <a id="introduction"></a>
-El objetivo de esta práctica es **la creación de una herramienta que permita crear un solido de revolución** [1] a partir de un eje y un conjunto de vértices que formarán la silueta de sólido. A partir de estos, se deberá generar el sólido haciendo **uso de bandas de triángulos.[2]**
+El objetivo de esta práctica es **la creación de una herramienta que permita crear un solido de revolución** [1] a partir de un eje y un conjunto de vértices que formarán la silueta de sólido. A partir de estos, se deberá generar el sólido haciendo **uso de bandas de triángulos** [2].
 
 ## Instrucciones de uso <a id="instructions"></a>
 El programa **comenzará con un lienzo vacío, delimitado por el eje a partir del cuál se obtendrá el sólido de revolución.** Las instrucciones se encontrarán en la pantalla:
