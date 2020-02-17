@@ -3,7 +3,7 @@ public class RevolutionSolid implements Drawable {
   private Point rotation;
   private final float zValue = 0;
   private final color strokeColor = color(174, 213, 129);
-  private final color fillColor = color(174, 213, 129, 230);
+  private final color fillColor = color(174, 213, 129, 200);
 
   public void createFromPoints(ArrayList<Point> points, Point origin) {
     solid = createShape();
